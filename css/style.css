@@ -51,7 +51,7 @@ main{
 footer{
     position: absolute;
     background-color: white;
-    padding: 30px;
+    
     height: 80px;
     text-align: center;
     left: 0;
@@ -61,6 +61,7 @@ footer{
 }
 
 #footer-left{
+    position: absolute;
     float: left;
     width: 50%;
     color: black;
@@ -70,6 +71,7 @@ footer{
 }
 
 #footer-right{
+    position: absolute;
     float: right;
     width: 50%;
     color: black;
