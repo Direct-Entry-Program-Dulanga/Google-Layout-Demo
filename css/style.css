@@ -167,3 +167,42 @@ footer{
 }
 
 
+@media all and (max-width: 500px){
+    footer{
+        text-align: center;
+    }
+    .footer_right{
+        position: absolute;
+        float: none;
+        color: black;
+        text-decoration: none;
+        padding-right: 20px;
+        right: 0;
+        left: 0;
+        margin: auto;
+        bottom: 50px;
+    }
+
+    .footer_left{
+        position: absolute;
+        float: none;
+        padding-left: 20px;
+        left: o;
+        right: 0;
+        margin: auto;
+        color: black;
+        text-decoration: none;
+        bottom: 30px;
+    }
+
+    .footl{
+        color: black;
+        text-decoration: none;
+    }
+    
+    .footr{
+        color: black;
+        text-decoration: none;
+    }
+}
+
